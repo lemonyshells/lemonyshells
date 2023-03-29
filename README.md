@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello, world 👋<h/1>
+</div>
 
-<!--
-**lemonyshells/lemonyshells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<div align="center">
+  <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
+    
+##
+    
+🌱 I’m currently learning JavaScript <br>
+💭 Still not sure which career to follow, but Front-End has my 💝 so far <br>
+📫 Reach me by e-mail: ciprianoyandra@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><br>
+  <a href="https://github.com/lemonyshells">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lemonyshells&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
