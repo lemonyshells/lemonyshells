@@ -10,7 +10,7 @@
     
 ##
     
-🌱 I’m currently learning JavaScript <br>
+🌱 I’m currently learning JavaScript & Angular <br>
 💭 Still not sure which career to follow, but Front-End has my 💝 so far <br>
 📫 Reach me by e-mail: ciprianoyandra@gmail.com
 
